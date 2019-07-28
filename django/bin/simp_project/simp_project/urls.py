@@ -15,9 +15,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-
+import settings 
 from django.conf.urls import url
 from simp_project.first import views
+
+admin.autodiscover()
 
 urlpatterns = [	
 	path('', views.index, name='index'),
@@ -25,3 +27,6 @@ urlpatterns = [
     path('cadaster/', views.pag, name='pag'),
     path('details/', views.details, name='details'),
 ]
+
+if settings.DEBUG:
+    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
