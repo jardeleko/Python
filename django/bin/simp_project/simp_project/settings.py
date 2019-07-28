@@ -124,3 +124,7 @@ USE_TZ = True
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'simp_project', 'media')
 MEDIA_URL = '/media/'
+
+
+
+#more lines for success 
