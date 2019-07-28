@@ -2,7 +2,6 @@ av
 include
 lib
 bin/__pycache__
-bin/simp_project
 bin/simp_project/manage.py
 bin/simp_project/simp_project/__pycache__
 bin/simp_project/simp_project/__init__.py
