@@ -8,4 +8,4 @@
 ##### Chapecó - SC #####
 ###### 2019 ######
 
-*Pasta inclui os exercícios disponível em: [GitHub](https://github.com/adrianosanick/CalculoComplementar) 
+Pasta inclui os exercícios disponível em: [GitHub](https://github.com/adrianosanick/CalculoComplementar) 
