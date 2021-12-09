@@ -1,0 +1,11 @@
+colorido-surrealista
+colorido-renascentista
+colorido-minimalista
+colorido-artdigital
+pb-renascentista
+pb-minimalista
+pb-artdigital
+pixel-artdigital
+abstrato-surrealista
+fotofig-renascentista
+geometrico-minimalista
