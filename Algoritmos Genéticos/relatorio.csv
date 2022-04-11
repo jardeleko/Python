@@ -1,0 +1,91 @@
+Filename, tai20_5.txt ,Upper bound(Tailard), 1278 ,Lower bound(Taillard), 1232
+New lower bound, 1088
+New upper bound, 1107
+Mean LB, 1102.4
+lb std, 5.4809
+Mean Time(t/s), 3.5601
+Total time std(t/s), 1.64
+Total time(t/s), 6.0743
+
+Filename, tai20_10.txt ,Upper bound(Tailard), 1582 ,Lower bound(Taillard), 1448
+New lower bound, 1444
+New upper bound, 1781
+Mean LB, 1724.4
+lb std, 96.0502
+Mean Time(t/s), 60.0487
+Total time std(t/s), 0.03
+Total time(t/s), 60.0918
+
+Filename, tai20_20.txt ,Upper bound(Tailard), 2297 ,Lower bound(Taillard), 1911
+New lower bound, 2270
+New upper bound, 2534
+Mean LB, 2481.8
+lb std, 79.2639
+Mean Time(t/s), 60.0778
+Total time std(t/s), 0.04
+Total time(t/s), 60.1475
+
+Filename, tai50_5.txt ,Upper bound(Tailard), 2724 ,Lower bound(Taillard), 2712
+New lower bound, 2394
+New upper bound, 2440
+Mean LB, 2425.3
+lb std, 15.5181
+Mean Time(t/s), 30.9137
+Total time std(t/s), 13.78
+Total time(t/s), 48.9122
+
+Filename, tai50_10.txt ,Upper bound(Tailard), 3025 ,Lower bound(Taillard), 2907
+New lower bound, 3035
+New upper bound, 3537
+Mean LB, 3450.1
+lb std, 140.9748
+Mean Time(t/s), 60.1583
+Total time std(t/s), 0.09
+Total time(t/s), 60.2885
+
+Filename, tai50_20.txt ,Upper bound(Tailard), 3875 ,Lower bound(Taillard), 3480
+New lower bound, 4012
+New upper bound, 4603
+Mean LB, 4482.9
+lb std, 160.644
+Mean Time(t/s), 60.1946
+Total time std(t/s), 0.12
+Total time(t/s), 60.382
+
+Filename, tai100_5.txt ,Upper bound(Tailard), 5493 ,Lower bound(Taillard), 5437
+New lower bound, 4872
+New upper bound, 5667
+Mean LB, 5454.0
+lb std, 286.9808
+Mean Time(t/s), 55.2748
+Total time std(t/s), 15.14
+Total time(t/s), 60.5916
+
+Filename, tai100_10.txt ,Upper bound(Tailard), 5770 ,Lower bound(Taillard), 5759
+New lower bound, 5819
+New upper bound, 6544
+Mean LB, 6403.7
+lb std, 200.0345
+Mean Time(t/s), 60.4125
+Total time std(t/s), 0.25
+Total time(t/s), 60.7894
+
+Filename, tai100_20.txt ,Upper bound(Tailard), 6286 ,Lower bound(Taillard), 5851
+New lower bound, 6492
+New upper bound, 7400
+Mean LB, 7241.7
+lb std, 259.0684
+Mean Time(t/s), 60.6084
+Total time std(t/s), 0.33
+Total time(t/s), 61.1301
+
+Filename, tai200_10.txt ,Upper bound(Tailard), 10868 ,Lower bound(Taillard), 10816
+New lower bound, 10885
+New upper bound, 11825
+Mean LB, 11646.0
+lb std, 260.2891
+Mean Time(t/s), 61.239
+Total time std(t/s), 0.74
+Total time(t/s), 62.3939
+
+
