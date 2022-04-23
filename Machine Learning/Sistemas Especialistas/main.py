@@ -1,8 +1,8 @@
-from classDiagnostico import *
+from classId import *
 from classPerguntas import *
 
 #Inferência
-se = Diagnostico()
+se = Identifica()
 pergunta = Pergunta()
 
 

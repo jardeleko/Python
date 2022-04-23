@@ -1,4 +1,4 @@
-class Diagnostico():
+class Identifica():
 	# metodo construtor
 	def __init__(self):
 		self.resultado = ['surrealista', 'renascentista', 'minimalista', 'artdigital']
